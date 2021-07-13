@@ -15,11 +15,11 @@ def get_x(arr, index):
 
 
 def add_x(arr, ele):
-    return arr.append(ele)
+    arr.append(ele)
 
 
 def remove_x(arr, ele):
-    return arr.remove(ele)
+    arr.remove(ele)
 
 
 # \/\/\/\/\/\/\  DO NOT TOUCH AREA  \/\/\/\/\/\/\ #
